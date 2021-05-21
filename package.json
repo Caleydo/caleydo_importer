@@ -67,8 +67,8 @@
   "dependencies": {
     "d3": "~3.5.17",
     "papaparse": "~5.3.0",
-    "phovea_core": "github:phovea/phovea_core#develop",
+    "phovea_core": "github:phovea/phovea_core#vstoiber/bootstrap_v5",
     "phovea_d3": "github:phovea/phovea_d3#develop",
-    "phovea_ui": "github:phovea/phovea_ui#bootstrap-v4"
+    "phovea_ui": "github:phovea/phovea_ui#vstoiber/bootstrap_v5"
   }
 }
